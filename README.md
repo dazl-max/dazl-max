@@ -1,7 +1,7 @@
 ## Hi Devs 👋
 
 
-- 🔭 Assistente Técnio de Informática
+- 🔭 Técnio de Informática
 - 💬 Desenvolvedor Mobile e Backend
 - ⚡ Estudando Flutter e Java
 
